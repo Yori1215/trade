@@ -1,0 +1,11 @@
+[
+	{"code":"xdl003","name":"牛肉干","price":10,"imgUrl":"5.jpg"},
+	{"code":"xdl004","name":"猕猴桃","price":6,"imgUrl":"9.jpg"},
+	{"code":"xdl005","name":"蓝莓","price":8,"imgUrl":"10.jpg"},
+	{"code":"xdl006","name":"猪肉脯","price":9,"imgUrl":"4.jpg"},
+	{"code":"xdl007","name":"蔬果干","price":12,"imgUrl":"8.jpg"},
+	{"code":"xdl008","name":"麦片巧克力","price":15,"imgUrl":"6.jpg"},
+	{"code":"xdl009","name":"麦吉士小蛋糕","price":20,"imgUrl":"13.jpg"},
+	{"code":"xdl0010","name":"男士精油洁面","price":59,"imgUrl":"11.jpg"}
+]
+
